@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-danger">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/">My Mood Tracker 🙂</a>
+      <a class="navbar-brand" href="/"><b>My Mood Tracker 🙂</b></a>
     </div>
   </nav>

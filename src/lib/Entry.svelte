@@ -3,6 +3,7 @@
     	    <h6 class="my-0">1 Nov 2021</h6>
     	    <span class="text-success">Best</span>
 	</div>
+	
 	<small class="text-muted">Comments on medication, activities, other, etc.</small>
 </button>
 

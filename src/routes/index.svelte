@@ -5,9 +5,9 @@
 
 <Greeting />
 <!--   Entries   -->
-<section class="container px-4 py-3">
+<section class="container px-4 py-3 bg-warning">
     <div class="d-flex justify-content-between">
-   	 <div class="p-2">Mood Log</div>
+   	 <div class="p-2"><b>Mood Log</b></div>
    	 <input class="btn btn-light mb-2" type="button" value="+ New Entry" />
     </div>
 
