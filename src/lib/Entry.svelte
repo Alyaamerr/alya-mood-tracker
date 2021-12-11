@@ -19,8 +19,8 @@
    	 {:else if mood === 'Best'}
    		 <span class="text-success">{mood}</span>
    	 {/if}
-
+</div>
 	
-	<small class="text-muted">Comments on medication, activities, other, etc.</small>
+		<small class="text-muted">{comment}</small>
 </button>
 
